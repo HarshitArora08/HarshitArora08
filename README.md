@@ -9,7 +9,9 @@ I am an aspiring post-hack developer with a keen interest in building dynamic an
 🚀 Tech Stack
 --
 Frontend: HTML, CSS, Basic JavaScript
+--
 Database: MySQL
+--
 Version Control: Git, GitHub, VS Code
 --
 📌 Current Focus
